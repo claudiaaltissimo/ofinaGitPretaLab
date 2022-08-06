@@ -1,0 +1,2 @@
+# ofinaGitPretaLab
+Meu primeiro repositório
